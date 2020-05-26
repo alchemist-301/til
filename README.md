@@ -4,7 +4,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Categories
 
 - [JavaScript](#javascript)
-- [ElPatodeTuring🧠](#ElPatodeTuring🧠)
+- [El Pato de Turing 🧠](#El Pato de Turing 🧠)
 - [Git](#git)
 - [GraphQL](#graphql)
 - [Node](#node)
@@ -28,5 +28,5 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### React 🦋
 - [Notas de React](react_notes.md)
 
-### ElPatodeTuring🧠
+### El Pato de Turing 🧠
 - [ES6?](Interview_notes.md)
