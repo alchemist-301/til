@@ -3,7 +3,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Categories
 
-- [JavaScript](#javascript)
+- [JavaScript](#JavaScript-)
 - [El Pato de Turing 🧠](#el-pato-de-turing)
 - [Git](#git)
 - [GraphQL](#graphql)
