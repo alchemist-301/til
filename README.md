@@ -16,3 +16,6 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Node ⚙️
 - [Node?](node_notes.md)
+
+### Angular 🎒
+- [Angular](angular_notes.md)
