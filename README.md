@@ -4,7 +4,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Categories
 
 - [JavaScript](#javascript)
-- [El Pato de Turing 🧠](#ElPatodeTuring🧠)
+- [El Pato de Turing 🧠](#el-pato-de-turing-🧠)
 - [Git](#git)
 - [GraphQL](#graphql)
 - [Node](#node)
