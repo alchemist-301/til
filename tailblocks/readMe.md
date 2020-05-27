@@ -29,13 +29,7 @@ So, nuestro archivo Index.html quedara de la siguiente manea:
 ```
 Una vez listo nuestro archivo index hay que ir a la siguiente URL 👉 https://mertjf.github.io/tailblocks/ y seleccionar el elemento que necesitemos como se muetra: 
 
-
-
-```
-aqui va el video
-```
-
-
+[![Watch the demo](https://img.youtube.com/vi/yV3vuyEXd3k/maxresdefault.jpg)](https://youtu.be/yV3vuyEXd3k)
 
 
 
