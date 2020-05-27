@@ -41,4 +41,4 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Productivity
 - [Full life organization with Notion](https://www.youtube.com/watch?v=9a6lV8JVhf8)
-- [how to have an organized mind](https://www.youtube.com/watch?v=QdQYXwrBhfM)
+- [How to have an organized mind](https://www.youtube.com/watch?v=QdQYXwrBhfM)
