@@ -12,6 +12,8 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Typescript](#typescript)
 - [Language](#language)
 - [Frontend](#front-end)
+- [Productivity](#productivity)
+
 
 ### Code Interview 💻
 - [ES6?](Interview_notes.md)
@@ -34,3 +36,8 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Front end
 - [tailblocks](tailblocks/readMe.md)
+
+
+
+### Productivity
+- [Full life organization with Notion](https://www.youtube.com/watch?v=9a6lV8JVhf8)
