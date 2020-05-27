@@ -11,7 +11,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [OOP](#oop)
 - [Typescript](#typescript)
 - [Language](#language)
-- [Frontend](#Front end)
+- [Frontend](#front-end)
 
 ### Code Interview 💻
 - [ES6?](Interview_notes.md)
