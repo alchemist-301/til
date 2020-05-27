@@ -13,6 +13,8 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Language](#language)
 - [Frontend](#front-end)
 - [Productivity](#productivity)
+- [Ciencia de Datos](#Ciencia-de-Datos)
+
 
 
 ### Code Interview 💻
@@ -42,3 +44,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Productivity
 - [Full life organization with Notion](https://www.youtube.com/watch?v=9a6lV8JVhf8)
 - [How to have an organized mind](https://www.youtube.com/watch?v=QdQYXwrBhfM)
+
+### Ciencia de Datos
+- [Ciencia de Datos con R](DataScience/DataScience_R_notes.md)
+- [Ciencia de Datos con Python ](DataScience/DataScience_R_notes.md)
