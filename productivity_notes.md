@@ -17,7 +17,9 @@
   
 * **Clear your mine** 
   * System to attention and memory that are external to your brain, but are building to be accessed by it all times.
-  
+
+####  🚫Avoid multitasking
+
 list notes with headers:
 - 📕Do now (in red) 
 - 📙Plan (orange)
