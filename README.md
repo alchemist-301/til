@@ -5,11 +5,12 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 - [JavaScript](#JavaScript-)
 - [El Pato de Turing 🧠](#el-pato-de-turing)
+- [Algorithms](#algorithms)
+- [Data Structures](#datastructures)
+- [Developer Skills](#devskills)
 - [Git](#git)
 - [GraphQL](#graphql)
 - [Node](#node)
-- [OOP](#oop)
-- [Typescript](#typescript)
 - [Language](#language)
 - [Frontend](#front-end)
 - [Productivity](#productivity)
@@ -21,7 +22,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [ES6?](Interview_notes.md)
 
 ### JavaScript 🍋
-- [ES6?](ES6_notes.md)
+- [ES6?](javascript/ES6_notes.md)
 
 ### Node ⚙️
 - [Node?](node_notes.md)
@@ -29,21 +30,22 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Angular 🎒
 - [Angular](angular_notes.md)
 
-
-### React 🦋
-- [Notas de React](react_notes.md)
-
-### El Pato de Turing🧠
+### El Pato de Turing 🧠
 - [ES6?](Interview_notes.md)
 
 ### Front end
 - [tailblocks](tailblocks/readMe.md)
 
 
-
 ### Productivity
+
+- [Productivity Notes 📓](productivity_notes.md)
 - [Full life organization with Notion](https://www.youtube.com/watch?v=9a6lV8JVhf8)
 - [How to have an organized mind](https://www.youtube.com/watch?v=QdQYXwrBhfM)
+
+
+### Dev Skills 🙋
+- [ Skills Notes 📓](skills_notes.md)
 
 ### Ciencia de Datos
 - [Ciencia de Datos con R](DataScience/DataScience_R_notes.md)
