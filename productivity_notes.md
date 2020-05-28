@@ -27,4 +27,5 @@ list notes with headers:
 - 💸Buy
 - 💡Ideas
 - 🖊Quotes (motivational)
+
 Brain dumping is like closing down many browser tabs. It reduces mental load and helps with focusing on important tasks.
