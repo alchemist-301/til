@@ -15,11 +15,14 @@
   * System to attention and memory that are external to your brain, but are building to be accessed by it all times. 
   * A calendar, a notebook, a time management app .
   
+* **Clear your mine** 
+  * System to attention and memory that are external to your brain, but are building to be accessed by it all times.
+  
 list notes with headers:
-- Do now (in red) 📕
-- Plan (orange)📙
-- Not important/urgent (yellow)
-- Buy
-- Ideas
-- Quotes (motivational)
+- 📕Do now (in red) 
+- 📙Plan (orange)
+- 📒Not important/urgent (yellow)
+- 💸Buy
+- 💡Ideas
+- 🖊Quotes (motivational)
 Brain dumping is like closing down many browser tabs. It reduces mental load and helps with focusing on important tasks.
