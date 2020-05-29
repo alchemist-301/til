@@ -18,9 +18,9 @@ Entre las principales caracteristicas del EcmaScript 5 nos encontramos:
 * [Array.some()](#arraysome)
 * [Array.indexOf()](#arrayindexof)
 * [Array.lastIndexOf()](#arraylastindexof)
-* [JSON.parse()](jsonparse)
-* [JSON.stringify()](jsonstringify)
-* [Date.now()](datenow)
+* [JSON.parse()](#jsonparse)
+* [JSON.stringify()](#jsonstringify)
+* [Date.now()](#datenow)
 
 ## Algunos cambios en la sintaxis
 * Acceso a la propiedad [] en cadenas
