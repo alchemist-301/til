@@ -6,21 +6,21 @@ En esta ocacion aprenderemos Ecmascript 5 tambien conocido como ES5 o Ecmascript
 
 Entre las principales caracteristicas del EcmaScript 5 nos encontramos:
 
-* "use strict"
-* String.trim()
-* Array.isArray()
-* Array.map()
-* Array.forEach()
-* Array.filter()
-* Array.reduce()
-* Array.reduceRight()
-* Array.every()
-* Array.some()
-* Array.indexOf()
-* Array.lastIndexOf()
-* JSON.parse()
-* JSON.stringify()
-* Date.now()
+* ["use strict"](#uso-de-la-directiva-de-use-strict)
+* [String.trim()](#stringtrimp)
+* [Array.isArray()](#arrayisarray)
+* [Array.map()](#arraymap)
+* [Array.forEach()](#arrayforeach)
+* [Array.filter()](#arrayfilter)
+* [Array.reduce()](#arrayreduce)
+* [Array.reduceRight()](#arrayreduceright)
+* [Array.every()](#arrayevery)
+* [Array.some()](#arraysome)
+* [Array.indexOf()](#arrayindexof)
+* [Array.lastIndexOf()](#arraylastindexof)
+* [JSON.parse()](jsonparse)
+* [JSON.stringify()](jsonstringify)
+* [Date.now()](datenow)
 
 ## Algunos cambios en la sintaxis
 * Acceso a la propiedad [] en cadenas
