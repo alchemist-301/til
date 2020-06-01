@@ -50,3 +50,6 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Ciencia de Datos
 - [Ciencia de Datos con R](DataScience/DataScience_R_notes.md)
 - [Ciencia de Datos con Python ](DataScience/DataScience_R_notes.md)
+
+### Soft Skills
+- [Soft Skills for Devs](Softskills.md)
