@@ -53,3 +53,6 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Soft Skills
 - [Soft Skills for Devs](Softskills.md)
+
+### Creative Writing
+- [Writing](writing.md)
