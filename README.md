@@ -19,7 +19,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 
 ### Code Interview 💻
-- [ES6?](https://github.com/patodeturing/til/tree/master/codeInterview)
+- [NoteBook](https://github.com/patodeturing/til/tree/master/codeInterview)
 
 ### JavaScript 🍋
 - [ES6?](javascript/ES6_notes.md)
