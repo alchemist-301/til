@@ -31,7 +31,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Angular](angular_notes.md)
 
 ### El Pato de Turing 🧠
-- [ES6?](Interview_notes.md)
+- [articulos](articulos)
 
 ### Front end
 - [tailblocks](tailblocks/readMe.md)
