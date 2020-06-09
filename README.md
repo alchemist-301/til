@@ -18,8 +18,26 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 
 
-### Code Interview 💻
+## Code Interview 💻
 - [NoteBook](https://github.com/patodeturing/til/tree/master/codeInterview)
+
+### El Pato de Turing 🧠
+- [articulos](articulos)
+- [Fundamentos de git]()
+- [Fundamentos de HTML, CSS Y JS]()
+- [Fundamentos de Front end] ()
+- [Fundamentos de animaciones en CSS]()
+- [Fundamentos de Less & Sass]()
+- [Fundamentos de Django]()
+- [Fundamentos de Typescript]()
+- [Fundamentos de Pytorch]()
+- [Fundamentos de Tensorflow]()
+- [Fundamentos de Angular]()
+
+## Web Development
+
+### Front end
+- [tailblocks](tailblocks/readMe.md)
 
 ### JavaScript 🍋
 - [ES6?](javascript/ES6_notes.md)
@@ -30,12 +48,8 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Angular 🎒
 - [Angular](angular_notes.md)
 
-### El Pato de Turing 🧠
-- [articulos](articulos)
-
-### Front end
-- [tailblocks](tailblocks/readMe.md)
-
+### Testing
+- [Testing]( yolo )
 
 ### Productivity
 
@@ -56,3 +70,39 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Creative Writing
 - [Writing](writing.md)
+
+
+
+
+
+
+
+
+
+
+
+
+### Fundamentos de git
+### Fundamentos de HTML, CSS Y JS
+### Fundamentos de Front end
+### Fundamentos de animaciones en CSS
+### Fundamentos de Less & Sass
+### Fundamentos de Django
+### Fundamentos de Typescript
+### Fundamentos de Pytorch
+### Fundamentos de Tensorflow
+### Fundamentos de Angular
+
+
+
+# Testing
+
+# Hardware
+
+### Arduino
+
+### Google Home
+
+
+### Robotic
+
