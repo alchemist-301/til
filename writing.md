@@ -17,6 +17,18 @@ Hola espero se encuentren bien, se lo que paso con Luisa, mi mas sentido pesame.
 
 ## Amar desde Marte
 
+.
+.
+.
+a cada palpitar que pasa el elevador acelera a 15 mil por segundo, 
+siento la friccion de las poleas despegando al compas de una cuenta regresiva, 
+5 , 4 , 3 , 2 , 1 , los propulsores se desprenden las paredes se tambalean, 
+.
+.
+.
+y de no ser humana ...
+abduceme , que mi corazon ya es tuyo. 
+
 ## El encanto de Sofia
 
 ## Estacion Amores 3:45 p.m.
