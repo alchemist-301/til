@@ -109,3 +109,19 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Robotic
 
+## Awesome Portafolio 
+My favourite 2020 Tech stack.
+* Angular 9 - 10
+* Node.js
+* Firebase
+* Google Cloud Platform
+* Git & GitKraken
+* Visual Studio Code
+* Colab & tensorflow
+* Python.
+
+My favourite 2019 Tech stack.
+* Messenger Platform.
+* Python Flask
+* React.js & Redux
+* GitKraken
