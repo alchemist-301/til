@@ -33,3 +33,30 @@ abduceme , que mi corazon ya es tuyo.
 
 ## Estacion Amores 3:45 p.m.
 
+
+https://www.grammarly.com/blog/how-to-improve-writing-skills/
+
+https://www.grammarly.com/blog/writing-tips/
+
+https://www.grammarly.com/blog/productivity-world-event-distractions/
+
+https://www.grammarly.com/blog/how-to-set-goals/
+
+Solo dias.
+
+Primer dia de mi trabajo como guarda espaldas,
+sabes que necesitamos dinero pero no quieres que lo haga,
+si te vas, no me volveras a ver, 
+salgo deprisa, se me hace tarde,
+un dia de mierda, tan mierda como el resto de dias,
+antes cuando habia buenos y malos dias solia llegar a casa
+ver series con ella y reir mientras jugabamos maincraft
+hoy, ya no hay dias de esos.
+Un whatsapp de mi esposa entra, "Quiero el divorsio",
+voy por la toalla como ladron en casa agena
+tropesando con el jabor en piso 
+intentando sostenerme de algo tiro del gatillo del arma
+A la mañana siguiente un periodico amanece
+Se mata por amor
+
+Jamas hubieron dias felices, solo dias.
