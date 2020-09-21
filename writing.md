@@ -42,6 +42,10 @@ https://www.grammarly.com/blog/productivity-world-event-distractions/
 
 https://www.grammarly.com/blog/how-to-set-goals/
 
+https://soenglish.me/improve-writing-skills/
+
+https://www.tofluency.com/english-writing-skills/
+
 Solo dias.
 
 Primer dia de mi trabajo como guarda espaldas,
