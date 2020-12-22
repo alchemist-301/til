@@ -28,7 +28,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [articulos](articulos)
 - [Fundamentos de git]()
 - [Fundamentos de HTML, CSS Y JS]()
-- [Fundamentos de Front end] ()
+- [Fundamentos de Front end]()
 - [Fundamentos de animaciones en CSS]()
 - [Fundamentos de Less & Sass]()
 - [Fundamentos de Django]()
@@ -105,6 +105,10 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Arduino
 
 ### Google Home
+
+### Google Cloud Platform
+
+### Angular Firebase
 
 
 ### Robotic
