@@ -26,12 +26,15 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### El Pato de Turing 🧠
 - [articulos](articulos)
-- [Fundamentos de git]()
 - [Fundamentos de HTML, CSS Y JS]()
 - [Fundamentos de Front end]()
 - [Fundamentos de animaciones en CSS]()
-- [Fundamentos de Less & Sass]()
-- [Fundamentos de Django]()
+- [Fundamentos de Data Analisis]()
+- [Fundamentos de Algebra Lineal]()
+- [Fundamentos de Deep Learning]()
+- [Fundamentos de Machine Learning]()
+- [Fundamentos de Probalidad]()
+- [Fundamentos de Estadistica]()
 - [Fundamentos de Typescript]()
 - [Fundamentos de Pytorch]()
 - [Fundamentos de Tensorflow]()
@@ -40,19 +43,36 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ## Web Development
 
 ### Front end
+- [Animaciones en  CSS]()
+- [Resonsive]()
+- [CSS Crash Course]()
 - [tailblocks](tailblocks/readMe.md)
+
 
 ### JavaScript 🍋
 - [ES6?](javascript/ES6_notes.md)
+- [Brain.js]()
+- [P5.js]()
+- [D3.js]()
 
 ### Node ⚙️
 - [Node?](node_notes.md)
 
 ### Angular 🎒
-- [Angular](angular_notes.md)
+- [Angular Fundamentos](angular_notes.md)
+- [Angular - SPA]()
+- [Angular - firebase]()
+- [Angular - Spotiapp]()
+
+
+
+### Firebase
+- [Fisebase + Angular]()
+- [Firebase + React Native]()
 
 ### Testing
-- [Testing]( yolo )
+- [Unit Testing]( yolo )
+- [Test Driven Development]()
 
 ### Productivity
 
@@ -60,6 +80,10 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Full life organization with Notion](https://www.youtube.com/watch?v=9a6lV8JVhf8)
 - [How to have an organized mind](https://www.youtube.com/watch?v=QdQYXwrBhfM)
 
+
+### Google Cloud Platform
+- [GCP Fundamentals.]()
+- [GCP Associate Profesional Certification.]()
 
 ### Dev Skills 🙋
 - [ Skills Notes 📓](skills_notes.md)
@@ -76,16 +100,6 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 
 
-
-
-
-
-
-
-
-
-
-### Fundamentos de git
 ### Fundamentos de HTML, CSS Y JS
 ### Fundamentos de Front end
 ### Fundamentos de animaciones en CSS
@@ -95,23 +109,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Fundamentos de Pytorch
 ### Fundamentos de Tensorflow
 ### Fundamentos de Angular
-
-
-
-# Testing
-
 # Hardware
-
-### Arduino
-
 ### Google Home
 
-### Google Cloud Platform
-
-### Angular Firebase
-
-
-### Robotic
 
 ## Awesome Portafolio 
 My favourite 2020 Tech stack.
