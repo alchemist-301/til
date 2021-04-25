@@ -1,7 +1,10 @@
 
 
 Lineamentos de medidas: 
+
 https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/technical-guidelines/#optimizing-3d-objects
+
+https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/supported-file-formats/
 
 Documentacion del Demo:
 https://sparkar.facebook.com/ar-studio/learn/tutorials/replacing-the-background/#making-the-background
